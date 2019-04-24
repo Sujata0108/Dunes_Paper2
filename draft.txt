@@ -1,2 +1,2 @@
-This is to see git diff
-This is my draft paper. Dunes are great.
+
+This is my draft paper. Dunes are not great. Dogs, however, are great. They can both be great.
